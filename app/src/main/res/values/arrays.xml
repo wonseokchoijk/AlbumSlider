@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="select_slide_show_seconds_array">
+<!--            <item>1</item> -->
+            <item>3</item>
+            <item>5</item>
+            <item>10</item>
+            <item>20</item>
+            <item>30</item>
+            <item>60</item>
+        </string-array>
+    <string-array name="select_flip_type">
+        <item>Default</item>
+        <item>Accordion</item>
+        <item>Background to Foreground</item>
+        <item>Cube In</item>
+        <item>Depth Page</item>
+<!--        <item>フェード</item> -->
+        <item>Flip Horiziontal</item>
+        <item>Flip Page</item>
+        <item>Foreground to Background</item>
+        <item>Rotate Down</item>
+        <item>Rotate Up</item>
+        <item>Stack</item>
+        <item>Tablet</item>
+        <item>Zoom In</item>
+        <item>Zoom Out Slide</item>
+        <item>Zoom Out</item>
+    </string-array>
+    <string-array name="select_layout">
+        <item>Fit Center</item>
+        <item>Fit XY</item>
+        <item>Center Crop</item>
+    </string-array>
+    <string-array name="select_background_color">
+        <item>White</item>
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Red</item>
+    </string-array>
+    <string-array name="select_display_order">
+        <item>Random</item>
+        <item>Added Date Ascendant</item>
+        <item>Added Date Descending</item>
+        <item>File Name Ascendant</item>
+        <item>File Name Descending</item>
+    </string-array>
+    <string-array name="select_display_lock">
+        <item>No Lock</item>
+        <item>Lock while working</item>
+        <item>No Lock When Charging only</item>
+    </string-array>
+</resources>

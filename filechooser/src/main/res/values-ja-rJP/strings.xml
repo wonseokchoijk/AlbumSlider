@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ライブラリー</string>
+    <string name="add_files">このアルバムを選択</string>
+    <string name="selected_item_count">%1$s (総 %2$d 枚)</string>
+</resources>

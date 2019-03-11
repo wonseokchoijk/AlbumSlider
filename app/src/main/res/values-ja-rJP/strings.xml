@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">アルバムスライダー</string>
+    <string name="authority_asking_message">画像データを取得するには外部ストレージへのアクセス権限が必須です。</string>
+    <string name="authority_asking_reason">権限が必要な理由</string>
+    <string name="authority_denied">権限承認が拒否されました。</string>
+    <string name="no_selected_album_msg">左側をスライドし、メニューから\nアルバムを選択してください。</string>
+    <string name="menu_select_album">アルバム選択</string>
+    <string name="menu_configuration">詳細設定</string>
+    <string name="menu_slideshow">スライドショー秒数</string>
+    <string name="menu_slideshow_select_seconds">秒</string>
+    <string name="menu_slideshow_flip">切り替え効果</string>
+    <string name="menu_layout">画面レイアウト</string>
+    <string name="menu_background_color">背景色</string>
+    <string name="menu_display_order">表示順</string>
+    <string name="menu_display_lock">画面ロック</string>
+    <string name="menu_show_status_bar">ステータスバー表示</string>
+    <string name="no_represent_image">選択アルバムなし</string>
+</resources>

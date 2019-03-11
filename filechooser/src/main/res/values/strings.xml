@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">library</string>
+  <string name="add_files">Select this Album</string>
+  <string name="selected_item_count">%1$s (total %2$d image(s))</string>
+</resources>

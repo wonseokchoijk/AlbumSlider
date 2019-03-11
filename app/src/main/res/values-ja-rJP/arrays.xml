@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="select_slide_show_seconds_array">
+<!--            <item>1</item> -->
+            <item>3</item>
+            <item>5</item>
+            <item>10</item>
+            <item>20</item>
+            <item>30</item>
+            <item>60</item>
+        </string-array>
+    <string-array name="select_flip_type">
+        <item>デフォルト</item>
+        <item>アコーディオン</item>
+        <item>裏から表へ</item>
+        <item>キューブ・イン</item>
+        <item>ページング</item>
+<!--        <item>フェード</item> -->
+        <item>水平めくり</item>
+        <item>ページめくり</item>
+        <item>表から裏へ</item>
+        <item>下へ回転</item>
+        <item>上へ回転</item>
+        <item>スタック</item>
+        <item>タブレット</item>
+        <item>ズームイン</item>
+        <item>ズームアウトスライド</item>
+        <item>ズームアウト</item>
+    </string-array>
+    <string-array name="select_layout">
+        <item>中央フィット</item>
+        <item>横縦フィット</item>
+        <item>中央切り取り</item>
+    </string-array>
+    <string-array name="select_background_color">
+        <item>白</item>
+        <item>黒</item>
+        <item>青</item>
+        <item>緑</item>
+        <item>赤</item>
+    </string-array>
+    <string-array name="select_display_order">
+        <item>ランダム</item>
+        <item>追加日時昇順</item>
+        <item>追加日時降順</item>
+        <item>ファイル名昇順</item>
+        <item>ファイル名降順</item>
+    </string-array>
+    <string-array name="select_display_lock">
+        <item>ロックなし</item>
+        <item>ロックあり</item>
+        <item>充電中ロックなし</item>
+    </string-array>
+</resources>

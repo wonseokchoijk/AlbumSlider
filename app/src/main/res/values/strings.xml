@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Album Slider</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="authority_asking_message">Authority is needed to access external storage.
+    </string>
+    <string name="authority_asking_reason">"Reason"</string>
+    <string name="authority_denied">Accessing images is denied.</string>
+    <string name="no_selected_album_msg">Slide the left menu to select Album.</string>
+    <string name="menu_select_album">Select Album</string>
+    <string name="menu_configuration">Configuration</string>
+    <string name="menu_slideshow">Slide Show Duration</string>
+    <string name="menu_slideshow_select_seconds">seconds</string>
+    <string name="menu_slideshow_flip">Flip Effect</string>
+    <string name="menu_layout">Display Layout</string>
+    <string name="menu_background_color">BG Color</string>
+    <string name="menu_display_order">Display Order</string>
+    <string name="menu_display_lock">Display Lock</string>
+    <string name="menu_show_status_bar">Show Status Bar</string>
+    <string name="no_represent_image">No Selected Album</string>
+</resources>
