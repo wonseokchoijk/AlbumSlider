@@ -1,6 +1,6 @@
 ## 使用言語・ツール
   * Kotlin
-  * Java(ライブラリ改修)
+  * Java(ライブラリ改修及びバグ修正)
   * Glide
 
 ## Screen Shots
