@@ -4,6 +4,8 @@
   * Glide
 
 ## Screen Shots
+![image](https://user-images.githubusercontent.com/45314029/54283905-53a8af00-45e2-11e9-861f-4eb189dfd9c0.png)
+
 ![Screenshot_20190307-210926_Album Slider](https://user-images.githubusercontent.com/45314029/54102741-01fafb80-440d-11e9-8a73-ac12c3944f10.jpg)
 ![Screenshot_20190307-212410_Album Slider](https://user-images.githubusercontent.com/45314029/54102742-02939200-440d-11e9-8854-abeae7e204ff.jpg)
 
