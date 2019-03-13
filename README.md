@@ -11,3 +11,5 @@
 ![Screenshot_20190307-210917_Album Slider](https://user-images.githubusercontent.com/45314029/54102740-01fafb80-440d-11e9-92d8-1d57785ad5b7.jpg)
 
 ![SmartSelect_20190307-211636_Album Slider](https://user-images.githubusercontent.com/45314029/54102558-4a65e980-440c-11e9-8cd7-beda5684d4ca.gif)
+
+![SmartSelect_20190313-224653_Album Slider](https://user-images.githubusercontent.com/45314029/54283824-28be5b00-45e2-11e9-8b08-f05b10eefbf1.gif)
